@@ -54,7 +54,7 @@
 
 .q1__content__text {
   /* [14] 下の行のpaddingのコメントアウトを外す => [13]で指定した枠線（border）とテキストの間に余白がないので、内側の余白（padding）を付けてあげます。そうすることで、枠線（border）とテキストの間に余白ができます。 [15]は40行目。 */
-  /* padding: 20px; */
+  /* #3274ae;*/
   /* [10] 下の2行のfont-sizeとline-heightのコメントアウトを外す => テキストの文字のサイズ（font-size）とテキストの行の高さ（line-height）を指定しました。 [11]は63行目。 */
   /* font-size: 16px;
   line-height: 16px; */
